@@ -93,7 +93,9 @@
     border-bottom: none;
 }
 .w3-tooltip, .w3-display-container {
-    position: relative;
+  height: auto;
+  width: 100%;
+  position: relative;
 }
 .w3-tooltip .w3-text {
     display: none;
